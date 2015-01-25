@@ -25,25 +25,24 @@ On your turn:
 =============
 1. Decrement World Health by 1.
 2. World Leader draws a Money card OR adds 1 World Health.
-2a. If an effect is in play for the World Leader to draw extra Money cards, the World Leader
-will always draw those extra cards.
-2b. World Leader draws an Event card.
-2c. If the Event card has an OR on it, do steps 3 through 6b. Otherwise do 2d.
-2d. If the Event card just has a set of instructions written on it, follow the instructions
+  1. If an effect is in play for the World Leader to draw extra Money cards, the World Leader will always draw those extra cards.
+  2. World Leader draws an Event card.
+  3. If the Event card has an OR on it, do steps 3 through 6b. Otherwise do 2d.
+  4. If the Event card just has a set of instructions written on it, follow the instructions
 and then go to step 7.
 3. Select people to participate in the event.
-3a. Mission Leader might have special responsibilites.
+  1. Mission Leader might have special responsibilites.
 4. Everyone votes to see if the event will continue.
-4a. If the majority of the votes is no, go to step 7.
+  1. If the majority of the votes is no, go to step 7.
 5. Participants of the event vote to see if the event succeeds or fails.
-5a. A single fail card fails the mission.
-5b. If fail, use opposite result.
+  1. A single fail card fails the mission.
+  2. If fail, use opposite result.
 6. Follow the result of the card.
-6a. Event effects must be satisfied in the order written, otherwise further effects will not happen.
-6b. e.g.: If Liaisons cannot pay the necessary money in an event, the world is not healed.
+  1. Event effects must be satisfied in the order written, otherwise further effects will not happen.
+  2. e.g.: If Liaisons cannot pay the necessary money in an event, the world is not healed.
 7. Everybody closes their eyes.
-7a. Corporate players open their eyes and buy a piece of Stolen Technology within 15 seconds.
-7b. Any money used by a Corporate player is replaced with Fake Money.
+  1. Corporate players open their eyes and buy a piece of Stolen Technology within 15 seconds.
+  2. Any money used by a Corporate player is replaced with Fake Money.
 8. Pass world leadership to person on left.
 
 To Win:

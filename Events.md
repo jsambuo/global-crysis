@@ -1,5 +1,5 @@
 ***************************************
-* BASIC?
+# BASIC?
 ***************************************
 
 Working with Charities
@@ -16,7 +16,9 @@ Almost no rain falls this year, and the nations should work together to ration t
 water in the ocean.
 * Liaisons must pay a total of 4 (or more) Money
 * +2 World Health
+
 OR
+
 * -1 World Health
 * Diplomat draws 2 Money and distributes them to the Liaisons
 
@@ -25,7 +27,9 @@ Flooding
 The nations work together to shore up their rivers and beaches or else there will be massive damage.
 * Liaisons must each pay 1 (or more) Money
 * +1 World Health
+
 OR
+
 * Draw 1 Money
 (create multiple permutations of this with 1, 2, 3 for each value on each side? basically just a decent number of “basic”
 cards that can be drawn)
@@ -35,7 +39,9 @@ Famine
 Not much food was produced last year and the nations must work together or risk mass starvation.
 * Liaisons must pay a total of 3 (or more) Money
 * +1 World Health
+
 OR
+
 * -1 World Health
 * Diplomat draws 3 Money cards, looks at them, and distributes them to the Liaisons
 
@@ -44,7 +50,9 @@ Hurricane Season
 Many hurricanes hit this year, and the nations should work together to fix all the damage.
 * Liaisons pay 2 Money each
 * +2 World Health
+
 OR
+
 * -1 World Health
 * Liaisons draw 2 Money cards each
 
@@ -54,12 +62,14 @@ The arctic ice caps have been melting for a while, and it is beginning to reach 
 completely flooded. But the extra warmth can help yield large harvests.
 * Diplomat draws 2 Money cards and distributes them among the Liaisons
 * +1 World Health
+
 OR
+
 * -1 World Health
 * All players draw 1 Money card
 
 ***************************************
-* MONEY MOVEMENT
+# MONEY MOVEMENT
 ***************************************
 
 Trade Agreement
@@ -104,7 +114,7 @@ about how great they are for doing so.
 * Draw another event
 
 ***************************************
-* STOLEN TECHNOLOGY REMOVAL
+# STOLEN TECHNOLOGY REMOVAL
 ***************************************
 
 Find the Hackers
@@ -129,7 +139,7 @@ the secrets of the Arc ship.
 * For every 2 Money all players pay, increase the cost of buying the next piece of Stolen Technology by 1
 
 ***************************************
-* VARIOUS
+# VARIOUS
 ***************************************
 
 Let Loose the (Tectonic) Plates of War
@@ -154,10 +164,14 @@ Amidst uncertainty and crashes in the stock market, the nations have the opportu
 or use it for their own benefit.
 * All players must either:
  - Pay 2 Money
+
  OR
+
  - Pay 1 random Money card.
 * +3 World Health
+
 OR
+
 * -1 World Health
 * All players draw 1 Money card.
 
@@ -175,7 +189,9 @@ or throw his assistants under the bus.
 * Diplomat gives 1 random Money card to both Assistants
   This does not need to be fulfilled to gain World Health
 * +1 World Health
+
 OR
+
 * Diplomat gets 1 random Money card from Assistants
 
 Prosperous Union
@@ -192,7 +208,9 @@ The harvest was so huge this year that not only does the economy boom, but peopl
 their neighbors and take care of each other in some nations.
 * Liaisons draw 1 Money card each.
 * +1 World Health
+
 OR
+
 * All players draw 1 Money card.
 
 Scrub the Atmosphere
@@ -222,7 +240,9 @@ Deforestation
 Large swaths of the great forests are beginning to die off and be replaced by deserts.
 * Liaisons pay a total of 5 (or more) Money
 * World Health damage at the start of each turn stops for 2 turns
+
 OR
+
 * World Health damage increases by 1 for 2 turns
 * The World Leader draws an extra Money card for 2 turns
 
@@ -232,7 +252,9 @@ Through extended efforts, the nations have been able to restore large swaths of 
 * Liaisons pay exactly 3 Money total
 * +2 World Health
 * World Leader draws an extra Money card next turn
+
 OR
+
 * Liaisons pay exactly 5 Money total
 * World Leader does not draw a Money card next turn
 * World Health does not take damage next turn from any source
