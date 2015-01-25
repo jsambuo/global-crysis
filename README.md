@@ -11,20 +11,20 @@ group of friends.
 Notes about events:
 ===================
 All events are written in the following format:
-
+```
   TITLE
   =====
   FLAVOR TEXT
   CHOICE 1
   OR
   CHOICE 2
-
+```
 OR
-
+```
   TITLE
   =====
   FLAVOR TEXT
   INSTRUCTIONS
-
+```
 These events can be put into cards and put into a deck that is randomly shuffled and pulled
 from every turn.
